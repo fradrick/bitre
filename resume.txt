@@ -1,0 +1,2 @@
+http://127.0.0.1:8000/media/photos/2019/11/11/home-inside-1.jpg
+1. Pull data from listings model
